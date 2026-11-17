@@ -40,7 +40,7 @@
   "homepage": "https://github.com/matiassingers/provisioning",
   "dependencies": {
     "cert-downloader": "github:stendahls/cert-downloader",
-    "simple-plist": "0.0.4"
+    "simple-plist": "1.3.1"
   },
   "devDependencies": {
     "mocha": "2.2.5",
